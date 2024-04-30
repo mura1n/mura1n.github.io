@@ -9,7 +9,7 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 
 ### News & Travel
 + **2024.5** CHI'24 Hawaii 🏄‍♀️
-+ **2023.7** CUI'23 Eindhoven 🇳🇱
++ **2023.7** CUI'23 Eindhoven 🌷
 
 ### Educational Background
 + **2022.8 - 2023.6**, MSc. Communication Science, University of Amsterdam
