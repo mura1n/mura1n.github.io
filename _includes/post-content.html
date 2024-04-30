@@ -11,6 +11,10 @@
   <a href="{{ post.sec_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.sec_button_icon}} fa-lg"></i>{{post.sec_button_text}}</button></a>
   {% endif %}
 
+  {% if post.thr_link != empty %}
+  <a href="{{ post.thr_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.thr_button_icon}} fa-lg"></i>{{post.thr_button_text}}</button></a>
+  {% endif %}
+
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
