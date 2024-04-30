@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'StayFocused'
 date: 2024-02-22 21:15:00
 categories: StayFocused
