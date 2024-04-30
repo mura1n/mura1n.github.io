@@ -1,14 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Prompt Engineering for StayFocused'
+title: 'Prompt LLMs for Mental Health'
 date: 2023-07-19 15:56:00
-categories: StayFocused
-tags: PromptEngineering LLMs
+categories: MentalLLM
+tags: PromptEngineering LLMs MentalHealth
 featured_image: '/img/posts/Poster_CUI.png'
-project_link: 'https://doi.org/10.1145/3571884.3604305'
-button_text: 'Check it on CUI23'
-button_icon: 'link'
-sec_button_text:'Check it on CHI23'
-lead_text: 'In this poster, we highlighted the iterative process of curating prompts for GPT-3 to build up a reflective chatbot, and the lessons learned from our trials and errors.'
+project_link: 
+button_text: 
+button_icon: 
+lead_text: 'We examined how people prompt GPT when seeking mental health support.'
 ---
