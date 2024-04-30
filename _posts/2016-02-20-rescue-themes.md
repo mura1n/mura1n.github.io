@@ -8,6 +8,6 @@ tags: PromptEngineering LLMs MentalHealth
 featured_image: 'img/posts/Blog-31-Prompt-Engineering-and-Beyond.jpeg'
 project_link: 'ellen.li@cityu.edu.hk'
 button_text: 'Contact me to learn more'
-button_icon: email
-lead_text: 'We examined how people prompt GPT when seeking mental health support. (Image from https://www.medtextpert.com/prompt-engineering-and-beyond/)'
+button_icon: mail
+lead_text: 'We examined how people prompt GPT when seeking mental health support. [|Image source|](https://www.medtextpert.com/prompt-engineering-and-beyond/)'
 ---
