@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'Chatbots for Healthcare Consulting'
-date: 2018-02-22 21:15:00
+date: 2021-08-01 00:00:00
 categories: DigitalHealth
 tags: Chatbots HealthBelief 
 featured_image: '/img/posts/conv_digital.png'
