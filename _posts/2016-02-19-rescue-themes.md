@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Chatbots for Health'
+title: 'Chatbots for Healthcare Consulting'
 date: 2018-02-22 21:15:00
 categories: DigitalHealth
 tags: Chatbots HealthBelief 
