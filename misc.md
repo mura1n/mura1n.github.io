@@ -4,7 +4,7 @@ title: Misc.
 permalink: /misc/
 ---
 ### I am an [ESFJ-T](https://www.16personalities.com/esfj-personality) person!
-<img src="/img/MBTI.png" width=300>\
+<img src="/img/MBTI.png" width=300>
 
 ### I like conveying my ideas through design 
 With an academic background in media and communication, I was trained to deliver key messages through digital illustrations. I have had the opportunity to contribute to several projects where I took charge of the illustration design. Here are a few examples of my work:
