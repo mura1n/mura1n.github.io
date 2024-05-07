@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Privacy in LLM-powered interactions'
 date: 2023-12-19 15:56:00
 categories: PrivacyLLM MentalHealth
