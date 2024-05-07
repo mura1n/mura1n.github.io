@@ -3,7 +3,7 @@ layout: inner
 position: left
 title: 'Co-design for privacy in LLM-powered interactions'
 date: 2015-04-19 15:56:00
-categories: PrivacyLLM
+categories: PrivacyLLM MentalHealth
 tags: LLMs Privacy
 featured_image: 'img/posts/Blog-31-Prompt-Engineering-and-Beyond.jpeg'
 project_link: 'mailto:ellen.li@cityu.edu.hk'
