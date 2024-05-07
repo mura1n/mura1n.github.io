@@ -12,5 +12,5 @@ button_icon: 'envelope'
 sec_link: ''
 sec_button_icon: ''
 sec_button_text: ''
-lead_text: "We planned a co-design study to explore possible design solutions to cope with user's privacy concerns."
+lead_text: "We planned a co-design study to explore possible design solutions to cope with user's privacy concerns when they interact with LLM-powered systems."
 ---
