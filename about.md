@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
  
-I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). As a researcher in the field of HCI, I design and evaluate Conversational Agents (CAs) in the context of people's daily health and mental well-being. Broadly, my research lies in the intersection of persuasive technology, digital health, social computing and personal informatics (PI). I aspire to unveil the various possibilities of CAs to empower human well-being.
+I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). As a researcher in the field of HCI, I design and evaluate Conversational Agents (CAs) in the context of people's daily health and mental well-being. Broadly, my research lies in the intersection of Computer-Supported Cooperative Work & Social Computing (CSCW), Personal Informatics (PI), and Communication Science. I aspire to unveil the various possibilities of CAs to empower human well-being.
 [Please find my CV here.](img/Resume-0312.pdf) 
 
 ### News & Travel
@@ -18,11 +18,12 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
  
 ### Research Experience
 + **2023.9 - Present**, Research Assistant (Full-time), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/)
-+ **2022.6 - 2023.9**, Researcher, Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
++ **2022.6 - 2023.9**, Research Intern (Part-time), Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
 ### Service
 + **Reviewer** for ACM CHI 2024, CSCW 2024
++ **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
 + **2022.3 - 2022.6**, Account Executive Intern, [BlueCurrent (Hong Kong)](https://bluecurrentgroup.com.hk/)
