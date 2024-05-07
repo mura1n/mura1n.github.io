@@ -12,5 +12,5 @@ button_icon: 'envelope'
 sec_link: ''
 sec_button_icon: ''
 sec_button_text: ''
-lead_text: 'We examined how people prompt GPT when seeking mental health support.[Image Source](https://www.medtextpert.com/prompt-engineering-and-beyond)'
+lead_text: 'We examined how people prompt GPT when seeking mental health support, with detailed analysis of their prompting strategies.'
 ---
