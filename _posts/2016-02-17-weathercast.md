@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Prompt LLMs for Mental Health'
 date: 2023-12-30 15:56:00
 categories: MentalLLM
