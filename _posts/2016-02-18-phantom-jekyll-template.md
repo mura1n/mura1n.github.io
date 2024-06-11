@@ -7,7 +7,7 @@ categories: StayFocused
 tags: SmartphoneAddiction PersuassiveTechnology Chatbots Reflection
 featured_image: '/img/posts/Poster_CUI.png'
 button_icon: 'link'
-project_link: '/paper/StayFocused.pdf'
+project_link: 'https://dl.acm.org/doi/full/10.1145/3613904.3642479'
 button_text: 'Check it on CHI24'
 sec_button_icon: 'link'
 sec_link: 'https://dl.acm.org/doi/abs/10.1145/3571884.3604305'
