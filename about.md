@@ -22,7 +22,7 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 + **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
 
 ### Service
-+ **Reviewer** for ACM CHI 2024, CSCW 2024
++ **Reviewer** for ACM CHI 2024, CSCW 2024, CHI PLAY 2024
 + **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
 
 ### Working Experience
