@@ -27,5 +27,5 @@ I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab
 
 ### Working Experience
 + **2022.3 - 2022.6**, Account Executive Intern, [BlueCurrent (Hong Kong)](https://bluecurrentgroup.com.hk/)
-+ **2021.6 - 2021.9**, Digital Advertising Specialist Intern, [BlueFocus (Beijing)](https://www.bluefocusgroup.com/en/)
++ **2021.6 - 2021.9**, Digital Advertising Specialist Intern, [BlueFocus (Beijing)](https://en.bluefocus.com/)
 + **2020.4 - 2020.8**, Content Management Intern, [Bytedance (Tianjin)](https://www.bytedance.com/en/)
