@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatGPT Chatbot</title>
+    <title>Chat with AI Ellen</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -24,6 +24,7 @@
             overflow: hidden;
             display: flex;
             flex-direction: column;
+            margin: auto;
         }
         .chat-header {
             background-color: #000;
@@ -86,8 +87,8 @@
             color: #000;
         }
         .chat-send-button {
-            background-color: #007bff;
-            color: #000;
+            background-color: #000;
+            color: #fff;
             border: none;
             padding: 10px 15px;
             margin-left: 10px;
@@ -163,7 +164,7 @@
                 body: JSON.stringify({
                     model: "gpt-4-1106-preview",
                     messages: [
-                        {"role": "system", "content": "You are a poetic assistant, skilled in explaining complex programming concepts with creative flair."},
+                        {"role": "system", "content": "You are AI Ellen. You should always encourage users to contact Ellen through Email."},
                         {"role": "user", "content": userMessage}
                     ]
                 })
