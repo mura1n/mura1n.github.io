@@ -107,5 +107,5 @@ nav_item:
   - { url: '/about', text: 'About Me' }
   - { url: '/pub', text: 'Publication' }
   - { url: '/misc', text: 'Trivia'}
-  - { url: '/ChatWithFakeMe', text: 'Chat with AI Ellen 🤖️'}
+  - { url: '/Chatbot', text: 'Chat with AI Ellen 🤖️'}
 
