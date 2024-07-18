@@ -126,7 +126,7 @@
                 const botResponse = await getBotResponse(userMessage);
                 displayMessage(botResponse, 'bot');
             } catch (error) {
-                displayMessage("Error: Unable to get a response. Please try again later.", 'bot');
+                displayMessage("Ellen hasn't bought GPT API, so currently, this function cannot work. But stay tuned!", 'bot');
                 console.error("Error fetching response: ", error);
             }
         }
@@ -156,7 +156,7 @@
         }
 
         async function getBotResponse(userMessage) {
-            const response = await fetch('https://api.xiaoai.plus/v1/chat/completions', {
+            const response = await fetch('fake', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
