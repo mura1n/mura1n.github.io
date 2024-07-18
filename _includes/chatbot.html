@@ -16,7 +16,7 @@
             margin: 0;
         }
         .chat-container {
-            width: 400px;
+            width: 600px;
             height: 600px;
             background-color: #f4f4f9;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -87,7 +87,7 @@
         }
         .chat-send-button {
             background-color: #007bff;
-            color: #fff;
+            color: #000;
             border: none;
             padding: 10px 15px;
             margin-left: 10px;
@@ -120,8 +120,13 @@
             chatInput.value = '';
 
             // Get bot response
-            const botResponse = await getBotResponse(userMessage);
-            displayMessage(botResponse, 'bot');
+            try {
+                const botResponse = await getBotResponse(userMessage);
+                displayMessage(botResponse, 'bot');
+            } catch (error) {
+                displayMessage("Error: Unable to get a response. Please try again later.", 'bot');
+                console.error("Error fetching response: ", error);
+            }
         }
 
         function displayMessage(message, sender) {
@@ -158,13 +163,21 @@
                 body: JSON.stringify({
                     model: "gpt-4-1106-preview",
                     messages: [
-                        {"role": "system", "content": "You are AI Ellen."},
+                        {"role": "system", "content": "You are a poetic assistant, skilled in explaining complex programming concepts with creative flair."},
                         {"role": "user", "content": userMessage}
                     ]
                 })
             });
 
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
             const data = await response.json();
+            if (!data || !data.choices || !data.choices.length) {
+                throw new Error("Invalid response format");
+            }
+
             return data.choices[0].message.content.trim();
         }
     </script>
