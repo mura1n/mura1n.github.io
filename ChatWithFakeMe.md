@@ -1,3 +1,11 @@
+---
+layout: inner
+title: Chat with AI Ellen
+permalink: /Chatbot/
+---
+
+```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
