@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Research on Remote Sensing Image Classification Based on Transfer Learning and Data Augmentation'
+title: 'ResNet50-TL'
 date: 2023-08-15 15:56:00
 categories: CV
 tags: ResNet50 ImageClassification TransferLearning DataAugmentation
