@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-avatar: '/img/favicon_1.png'
-title: "Hi, I'm Zhuoyang (Ellen) Li."
-email: 'zhuoyanli4@cityu.edu.hk'
-description: "I am a Human-Computer Interaction (HCI) researcher, currently a research assistant at BiWell Lab, City University of Hong Kong. My research interests lie in Conversational Agent (CA), Well-being, Persuasive Technology (PT) and Personal Informatics (PI)."
+avatar: '/img/chen-2021.png'
+title: "Hi, I'm Yulong (Murain) Chen."
+email: 'galahadcyl@gmail.com'
+description: "I am a student at City University of Hong Kong(DG). I got Bsc degree at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / LLM. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021."
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ellenli2000.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-linkedin_username: 'in/lizhuoyang720'
-# github_username: 'ellenli2000'
-medium_username: 'medium.com/@lizhuoyang720'
-google_username: 'pFr4MykAAAAJ&hl=en'
+url: "https://ylchen.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+linkedin_username: 'in/yulong-chen-4337b1324'
+github_username: 'mura1n'
+# medium_username: 'medium.com/@lizhuoyang720'
+google_username: 'WAzerzwAAAAJ=en'
 
 # Build settings
 markdown: kramdown
@@ -95,9 +95,9 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Last update: 02/05/2024.'
-admin_name: 'Zhuoyang (Ellen) Li'
-google_analytics: 'G-2SB2FYKLNH' # Update with your own tracking ID
+footer_text: 'Last update: 22/08/2024.'
+admin_name: 'Yulong (Murain) Chen'
+google_analytics: 'G-V7J7SK571S' # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
