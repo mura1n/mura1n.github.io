@@ -1,16 +1,16 @@
 ---
 layout: inner
 position: left
-title: 'Chatbots for Healthcare Consulting'
-date: 2021-08-01 00:00:00
-categories: DigitalHealth
-tags: Chatbots HealthBelief 
-featured_image: '/img/posts/conv_digital.png'
+title: 'Comprehensive Quality Evaluation for Secondary School Students Based on Big Data'
+date: 2023-01-01 00:00:00
+categories: Mathmatic4Education
+tags: ComprehensiveQuality MathmaticModel EducationOptimization 
+featured_image: '/img/选区_010.png'
 button_icon: 'link'
-project_link: 'https://journals.sagepub.com/doi/10.1177/20552076221129718'
-button_text: 'Check it on Digital Health'
-sec_button_icon: 'link'
-sec_link: 'https://scholars.cityu.edu.hk/en/publications/exploring-how-personalization-and-source-expertise-of-information-from-healthcare-chatbot-affect-users-health-beliefs-and-usage-intention(34f8b339-e4dd-495a-a8ed-5a8db2ac47ec).html'
-sec_button_text: 'Check it on IAMCR21'
-lead_text: "Based on the heuristic–systematic model (HSM) and health belief model (HBM), this study aims to investigate how personalization and source expertise in responses from a health chatbot influence users’ health belief-related factors and usage intentions."
+project_link: 'https://www.researchgate.net/publication/372012950_Comprehensive_Quality_Evaluation_for_Secondary_School_Students_Based_on_Big_Data'
+button_text: 'Check it on ICEKIM2023'
+sec_button_icon: ''
+sec_link: ''
+sec_button_text: ''
+lead_text: "The present study proposes a kind of comprehensive quality evaluation model based on big data with an attempt to rank and grade secondary school students’ comprehensive quality ability in Shandong, in order to optimize the traditional comprehensive quality evaluation model. The model is a fusion of TOPSIS method, RSR method, and entropy weight method."
 ---
