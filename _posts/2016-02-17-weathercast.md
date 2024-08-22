@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'A Temporal GRU with Ensemble Learning for Early Detection of Sepsis (TGEL-EDS)'
+title: 'TGEL-EDS'
 date: 2024-8-20 12:09:42
 categories: ML4Healthy
 tags: Sepsis EnsembleLearning IntensiveCareUnit
