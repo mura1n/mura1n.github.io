@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Comprehensive Quality Evaluation for Secondary School Students Based on Big Data'
-date: 2023-01-01 00:00:00
+date: 2023-01-05 00:00:00
 categories: Mathmatic4Education
 tags: ComprehensiveQuality MathmaticModel EducationOptimization 
 featured_image: '/img/选区_010.png'
