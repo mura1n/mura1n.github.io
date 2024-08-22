@@ -1,16 +1,16 @@
 ---
 layout: inner
 position: left
-title: 'StayFocused'
+title: 'Research on Remote Sensing Image Classification Based on Transfer Learning and Data Augmentation'
 date: 2024-02-22 21:15:00
-categories: StayFocused
-tags: SmartphoneAddiction PersuassiveTechnology Chatbots Reflection
-featured_image: '/img/posts/Poster_CUI.png'
+categories: CV
+tags: ResNet50 ImageClassification TransferLearning DataAugmentation
+featured_image: '/img/选区_008.png'
 button_icon: 'link'
-project_link: 'https://dl.acm.org/doi/full/10.1145/3613904.3642479'
-button_text: 'Check it on CHI24'
-sec_button_icon: 'link'
-sec_link: 'https://dl.acm.org/doi/abs/10.1145/3571884.3604305'
-sec_button_text: 'Check it on CUI23'
-lead_text: "StayFocused incorporates reflective prompts and chatbot support to assist individuals to be aware of their smartphone use and focus on their tasks at hand."
+project_link: 'https://link.springer.com/chapter/10.1007/978-3-031-40292-0_9'
+button_text: 'Check it on KSEM2023'
+sec_button_icon: ''
+sec_link: ''
+sec_button_text: ''
+lead_text: "To improve the accuracy of remote sensing image classification and reduce the workload of manual annotation of datasets, this paper proposes a Transfer learning model with ResNet50 as the architecture for the development characteristics of remote sensing images."
 ---
