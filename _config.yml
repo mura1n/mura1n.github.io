@@ -18,7 +18,7 @@ title: "Hi, I'm Yulong (Murain) Chen."
 email: 'galahadcyl@gmail.com'
 description: "I am a student at City University of Hong Kong(DG). I got Bsc degree at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / LLM. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021."
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://mura1n.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://mura1n.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'in/yulong-chen-4337b1324'
 github_username: 'mura1n'
 # medium_username: 'medium.com/@lizhuoyang720'
