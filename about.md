@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
  
-I am a research assistant at [**BiWell Lab**](https://yuhanlolo.github.io/me/lab.html), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). As a researcher in the field of HCI, I design and evaluate Conversational Agents (CAs) in the context of people's daily health and mental well-being. Broadly, my research lies in the intersection of Computer-Supported Cooperative Work & Social Computing (CSCW), Personal Informatics (PI), and Communication Science. I aspire to unveil the various possibilities of CAs to empower human well-being.
-[Please find my CV here.](img/Resume-0312.pdf) 
+<br> I am a student at City University of Hong Kong(DG). I got Bsc degree at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / LLM. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <galahadcyl@gmail.com> <br> **Google scholar:** [Scholarpage](https://scholar.google.com/citations?user=WAzerzwAAAAJ=en) <br> | <br> &emsp; ![image](https://yulongC.github.io/images/chen-2023.jpg) <br> <br> |
+
+***I am looking for a remote intern program in HCI/LLM/Machine Learning in 2024-2025. Please feel free to contact me if you are interested in taking me on as an intern student.[中文简历](https://github.com/yulongC/yulongC.github.io/blob/main/cv/cv_cn.pdf)/[CV](https://github.com/yulongC/yulongC.github.io/blob/main/cv/cv_en.pdf)*** 
 
 ### News & Travel
 + **2024.5** CHI'24 Hawaii 🏄‍♀️
