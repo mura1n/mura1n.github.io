@@ -4,29 +4,28 @@ title: About Me
 permalink: /about/
 ---
  
-<br> I am a student at City University of Hong Kong(DG). I got Bsc degree at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / LLM. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <galahadcyl@gmail.com> <br> **Google scholar:** [Scholarpage](https://scholar.google.com/citations?user=WAzerzwAAAAJ=en) <br> | <br> &emsp; ![image](https://yulongC.github.io/images/chen-2023.jpg) <br> <br> |
+I am a student at City University of Hong Kong(DG). I got Bsc degree at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / LLM. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021.
+
+**Email:** <ylchen0424@stu.hbnu.edu.cn>, <galahadcyl@gmail.com> 
 
 ***I am looking for a remote intern program in HCI/LLM/Machine Learning in 2024-2025. Please feel free to contact me if you are interested in taking me on as an intern student.[中文简历](https://github.com/yulongC/yulongC.github.io/blob/main/cv/cv_cn.pdf)/[CV](https://github.com/yulongC/yulongC.github.io/blob/main/cv/cv_en.pdf)*** 
 
 ### News & Travel
-+ **2024.5** CHI'24 Hawaii 🏄‍♀️
-+ **2023.7** CUI'23 Eindhoven 🌷
++ **2023.10** Our paper "A Temporal GRU with Ensemble Learning for Early Detection of Sepsis (TGEL-EDS)" is submitting to [Artificial Intelligence in Medicine](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/)! 🌷
++ **2023.08** Our paper "Research on remote sensing image classification based on Transfer learning and Data Augmentation" was accepted by [KSEM 2023](https://www.ksem2023.conferences.academy/)! 🌷
++ **2023.01** Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data" was accepted by [ICEKIM 2023](https://www.researchgate.net/publication/372012950_Comprehensive_Quality_Evaluation_for_Secondary_School_Students_Based_on_Big_Data)! 🌷
++ **2022.10** Our paper "Data information prediction based on deep fusion GRU-Stacking" was accepted by [WI-IAT 2022](https://ieeexplore.ieee.org/document/10101961)! 🌷
 
 ### Educational Background
-+ **2022.8 - 2023.6**, MSc. Communication Science, University of Amsterdam
-+ **2018.8 - 2022.6**, BA. Media and Communication, City University of Hong Kong
-+ **2019.7 - 2019.8**, Advanced British Culture and Humanities Programme, University of Oxford
++ **2024/09-2026/06** City University of Hong Kong(DG), Data Science (full-time master degree)
++ **2019/09-2023/06** Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
  
 ### Research Experience
-+ **2023.9 - Present**, Research Assistant (Full-time), supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/)
-+ **2022.6 - 2023.9**, Research Intern (Part-time), Supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/) and [Dr. Ray LC](https://www.scm.cityu.edu.hk/people/ray-lc)
-+ **2020.10 - 2022.9**, Student Research Assistant (Part-time), supervised by [Prof. Yu-li Liu](https://scholars.cityu.edu.hk/en/persons/yuli-liu(cb5a972e-b906-4c9a-8966-2d04034e50f0).html)
++ **2022.08 - 2023.04**, Research Assistant (Remote), supervised by [Dr. Bihui Yu](https://people.ucas.ac.cn/~yubihui?language=en)
++ **2021.09 - 2022.02**, Research Assistant (Remote), supervised by [Dr. Jimmy Huang](https://www.yorku.ca/jhuang/irlab/people.php)
 
 ### Service
-+ **Reviewer** for ACM CHI 2024, CSCW 2024, CHI PLAY 2024
-+ **Student Volunteer Chair** for [GBA Pre-Chi](https://gbahci.com/prechi/)
++ **Student member** for CCF 2021
 
-### Working Experience
-+ **2022.3 - 2022.6**, Account Executive Intern, [BlueCurrent (Hong Kong)](https://bluecurrentgroup.com.hk/)
-+ **2021.6 - 2021.9**, Digital Advertising Specialist Intern, [BlueFocus (Beijing)](https://en.bluefocus.com/)
-+ **2020.4 - 2020.8**, Content Management Intern, [Bytedance (Tianjin)](https://www.bytedance.com/en/)
+### Awards and Honors
++ **2021 - 2022**, National Scholarship for Undergraduates
