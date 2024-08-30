@@ -6,7 +6,7 @@ permalink: /about/
  
 I am a student at City University of Hong Kong(DG). I got Bsc degree at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / LLM. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021.
 
-**Email:** <ylchen0424@stu.hbnu.edu.cn>, <galahadcyl@gmail.com> 
+**Email:** <72405526@cityu-dg.edu.cn>, <galahadcyl@gmail.com> 
 
 ***I am looking for a remote intern program in HCI/LLM/Machine Learning in 2024-2025. Please feel free to contact me if you are interested in taking me on as an intern student.[中文简历](https://github.com/yulongC/yulongC.github.io/blob/main/cv/cv_cn.pdf)/[CV](https://github.com/yulongC/yulongC.github.io/blob/main/cv/cv_en.pdf)*** 
 
