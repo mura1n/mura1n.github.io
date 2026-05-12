@@ -23,7 +23,7 @@ repository               : "mura1n/mura1n.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/mura1n/mura1n.github.io/blob/master/images/chen-2021.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
