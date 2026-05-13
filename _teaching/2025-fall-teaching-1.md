@@ -5,7 +5,7 @@ type: "Graduate course"
 permalink: /teaching/2025-fall-teaching-1.md
 venue: "City University of Hong Kong (Dongguan), Department of computing"
 date: 2025-09-01
-location: "Hong Kong, China"
+location: "Dongguan, China"
 ---
 
 
