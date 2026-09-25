@@ -1,0 +1,38 @@
+- title: Research Interests
+  type: list
+  contents:
+    - 3D Generation
+    - World Models
+    - Spatio-Temporal Modeling
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: City University of Hong Kong (Dongguan)
+      department: KAI Lab
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. (Incoming, Summer 2027)
+      institution: City University of Hong Kong
+      department: College of Computing
+      year: 2027
+      description:
+        - "Supervisors: Kai Wang and Kede Ma"
+    - title: Master's degree
+      institution: City University of Hong Kong
+      year: 2026
+      description:
+        - "Advisors: Jianping Wang and Yifan Zhang"
+    - title: Bachelor's degree
+      institution: Hubei Normal University
+      year: 2023
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: National Scholarship
+      institution: China
+      year: 2022

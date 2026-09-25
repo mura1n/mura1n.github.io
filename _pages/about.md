@@ -1,63 +1,51 @@
 ---
+layout: about
+title: About
 permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
+profile:
+  align: right
+  image: yulong-2026.jpg
+  image_circular: false
+
+news: true
+latest_posts: false
+selected_papers: true
+social: true
 ---
 
-I'm Yulong Chen, an incoming 2027summer Ph.D. student in the College of Computing at [City University of Hong Kong](https://www.cityu.edu.hk/cc/), supervised by Prof. [Kai Wang](https://wangkai930418.github.io/) and Prof. [Kede Ma](https://scholars.cityu.edu.hk/en/persons/kedema/). I am currently working as a research assistant on KAI Lab at [City University of Hong Kong (Dongguan)](https://cityu-dg.edu.cn/en/home.html).
-My research interest includes 3D Generation, World Models, and Spatio-Temporal Modeling.
-
-Previously, I received my master’s degree from [City University of Hong Kong](https://www.cityu.edu.hk) in 2026, where I was supervised by Prof. [Jianping Wang (IEEE Fellow)](https://scholar.google.com/citations?user=bow_liAAAAAJ&hl=en) and Prof. [Yifan Zhang](https://yifanny.github.io/) from the College of Computing at [City University of Hong Kong](https://www.cityu.edu.hk/cc/). I received my bachelor’s degree from [Hubei Normal University](https://www.hbnu.edu.cn/) in 2023, where I got National Scholarship and was supervised by Prof. [Bihui Yu](https://people.ucas.edu.cn/~yubihui) from the Shenyang Institute of Computing Technology (SICT), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
-
-News
-======
-🎉 [05.2026] One paper has been submitted to [Scientific Data](https://www.nature.com/sdata/)! <br>
-🎉 [05.2026] Three papers have been submitted to [NeurIPS 2026](https://neurips.cc/)! <br>
-🎉 [04.2026] One paper got accepted to [ICIC 2026](http://ic-icc.cn/)!<br>
-🎉 [06.2025] One paper got accepted to [ECML-PKDD 2025](https://ecmlpkdd.org/2025/)!<br>
-🎉 [06.2023] One paper got accepted to [KSEM 2023](https://www.ksem2023.conferences.academy/)!<br>
-
-Selected Publications \[[Google Scholar](https://scholar.google.com/citations?user=WAzerzwAAAAJ&hl=zh-CN)\]
-======
-\* denotes equal contributions, † denotes corresponding author, ‡ denotes project lead. 
-
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/DUST.png" alt="One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction" style="width: 350px; height: auto; margin-right: 20px;">
-  <div>
-    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2605.07910" style="text-decoration: none;">One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction</a></h3>
-    <p style="margin: 5px 0;">
-          <strong>Yulong Chen*</strong>, Xiaoyun Dong*, Haoyu Zhang*, Zongxian Yang, Lewei Xie, Xinke Li†, Yifan Zhang†, Kai Wang†, Jianping Wang
-          <br>
-          <b><i>Arxiv. Target NeurIPS 2026</i></b><br>
-          <a href="https://arxiv.org/abs/2605.07910" style="text-decoration: none;">[Arxiv]</a>
-    </p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <a href="https://github.com/mura1n" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-      </a>
-    </div>
-  </div>
+<div class="intro-copy">
+  <strong>Yulong</strong> is a research assistant at KAI Lab, <a href="https://cityu-dg.edu.cn/en/home.html">City University of Hong Kong (Dongguan)</a>, and an incoming Ph.D. student at the <a href="https://www.cityu.edu.hk/cc/">College of Computing, City University of Hong Kong</a> in summer 2027, to be supervised by <a href="https://wangkai930418.github.io/">Prof. Kai Wang</a> and <a href="https://scholars.cityu.edu.hk/en/persons/kedema/">Prof. Kede Ma</a>. His research interests include 3D generation, world models, and spatio-temporal modeling.
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="../images/UISTOK.png" alt="Uniform Inductive Spatio-Temporal Kriging" style="width: 350px; height: auto; margin-right: 20px;">
-  <div>
-    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2603.05301" style="text-decoration: none;">Uniform Inductive Spatio-Temporal Kriging</a></h3>
-    <p style="margin: 5px 0;">
-          Lewei Xie*, Haoyu Zhang*, <strong>Yulong Chen*</strong>, Liangjun You, Zongxian Yang, Yifan Zhang†
-          <br>
-          <b><i>Arxiv. Target NeurIPS 2026</i></b><br>
-          <a href="https://arxiv.org/abs/2603.05301" style="text-decoration: none;">[Arxiv]</a>
-    </p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <a href="https://github.com/mura1n" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-      </a>
-    </div>
-  </div>
-</div>
+He received his master's degree from [City University of Hong Kong](https://www.cityu.edu.hk/) in 2026, advised by [Prof. Jianping Wang](https://scholar.google.com/citations?user=bow_liAAAAAJ&hl=en) and [Prof. Yifan Zhang](https://yifanny.github.io/). Previously, he received his bachelor's degree from [Hubei Normal University](https://www.hbnu.edu.cn/) in 2023 and worked with [Prof. Bihui Yu](https://people.ucas.edu.cn/~yubihui) at SICT, University of Chinese Academy of Sciences.
 
-Awards
-======
-* \[2022\] **National Scholarship, China**
+---
+
+<div class="resource-grid">
+  <a class="resource-card resource-card-github" href="https://github.com/mura1n/RefineEdit">
+    <i class="fa-brands fa-github fa-fw"></i>
+    <span>
+      <strong>RefineEdit</strong>
+      <small>training-free prompt-to-prompt image editing</small>
+    </span>
+  </a>
+  {% if site.scholar_userid %}
+  <a class="resource-card resource-card-discord" href="https://scholar.google.com/citations?user={{ site.scholar_userid }}">
+    <i class="fa-solid fa-graduation-cap fa-fw"></i>
+    <span>
+      <strong>Google Scholar</strong>
+      <small>publications and research updates</small>
+    </span>
+  </a>
+  {% endif %}
+  {% if site.github_username %}
+  <a class="resource-card resource-card-asap" href="https://github.com/{{ site.github_username }}">
+    <i class="fa-solid fa-code fa-fw"></i>
+    <span>
+      <strong>GitHub</strong>
+      <small>research code and open-source projects</small>
+    </span>
+  </a>
+  {% endif %}
+</div>

@@ -1,101 +1,112 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Yulong Chen's homepage
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+This is Songlin Yang's customized **al-folio / Jekyll template**, with
+Yulong's content, no Blog, and image previews for publications.
+The original fonts, spacing, 800px layout, colors, navigation, dark mode,
+and fixed footer are retained. See [template provenance](TEMPLATE_ORIGIN.md).
 
-# Getting Started
+## 本机预览
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Edit site-wide configuration in `_config.yml` and double check that the `url` is the one that you just selected in the previous step and that `repository` reflects the correct path for your repository.
-1. Add your site content, upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+当前源码目录：`/Users/mercury/Projects/mura1n-homepage`
 
-See more info at https://academicpages.github.io/
-
-### Additional Tutorials
-
-Additional tutorials for working with the Academic Pages template can be found at the following sites:
-- https://jayrobwilliams.com/posts/2020/06/academic-website/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distributions and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try running `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stopping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
+首次安装依赖需要 Ruby 和 Bundler。已在这台 Mac 的独立缓存中准备运行环境，
+不会修改系统 Ruby。运行：
 
 ```bash
-chmod -R 777 .
-docker compose up
+cd /Users/mercury/Projects/mura1n-homepage
+bash scripts/preview.sh
 ```
 
-You should now be able to access the website from `localhost:4000`.
+打开 http://127.0.0.1:8000/ 。修改页面或论文后通常自动更新；
+修改 `_config.yml` 后按 Ctrl+C 并重新运行。若端口已被当前预览占用，
+可用 `PORT=8001 bash scripts/preview.sh`。
 
-### Using the DevContainer in VS Code
+在另一台已有 Ruby 3.3 的电脑上：
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+```bash
+gem install bundler -v 2.4.22
+bundle install
+bundle exec jekyll serve --host 127.0.0.1 --port 8000
+```
 
-# Maintenance
+只构建、不启动服务：
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+```bash
+bash scripts/build.sh
+python3 tests/check_site.py
+```
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii), and additional maintainers would be welcome.
+## 在哪里修改个人信息
 
-## Bugfixes and enhancements
+| 内容 | 文件 |
+| --- | --- |
+| 姓名、邮箱、Scholar/GitHub、网站地址 | `_config.yml` |
+| 首页简介、研究兴趣、三个资源入口 | `_pages/about.md` |
+| News 动态（位于首页论文列表上方） | `_news/` 中的 Markdown 文件 |
+| 照片 | `assets/img/yulong-2026.jpg`，文件名在 `_pages/about.md` 中配置 |
+| 论文列表、链接和预览图文件名 | `_bibliography/papers.bib` |
+| 论文图片 | `assets/img/publication_preview/` |
+| CV 中的教育、经历、奖项 | `_data/cv.yml` |
+| CV 的导航和 PDF 下载按钮 | `_pages/cv.md` |
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of the template to your fork as well.
+具体增删、隐藏方法见 [EDITING.md](EDITING.md)。
+旧版的 `site.json` 和 `build.py` 已不再使用。
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize, although [rebasing](https://git-scm.com/docs/git-rebase) the changes from this template will work along with manually [cherry picking](https://git-scm.com/docs/git-cherry-pick) the relevant commits. If you are not comfortable with the Git command line, you can save your various `.yml` configuration files and Markdown files, delete the repository, and fork it again. 
+## 上传并替换现有 GitHub Pages
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+本次只改了本机文件，没有向 GitHub 提交或发布。确认预览后再进行以下步骤。
+新的工作流使用 Jekyll 构建，不要沿用旧版 Python 工作流。
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+1. 打开 `mura1n/mura1n.github.io` 的 **Settings → Pages**，
+   将 **Build and deployment → Source** 设为 **GitHub Actions**。
+2. 在一个新的本地目录克隆现有仓库，保留仓库历史：
+
+```bash
+cd /Users/mercury/Projects
+git clone https://github.com/mura1n/mura1n.github.io.git mura1n-pages-upload
+cd /Users/mercury/Projects/mura1n-pages-upload
+git branch backup-before-alfolio
+```
+
+如果 `mura1n-pages-upload` 已存在，不要覆盖其中未提交的修改；
+先查看 `git status`，或选择一个新的目录名。
+
+3. **以下同步会删除上传副本中旧模板的文件**，但保留 `.git` 和提交历史。
+   先预览，再执行。两个路径不要换成主目录或 Projects 根目录。
+
+```bash
+rsync -av --dry-run --delete \
+  --exclude='.git/' --exclude='_site/' --exclude='.bundle/' \
+  --exclude='.jekyll-cache/' --exclude='.jekyll-metadata' \
+  --exclude='.sass-cache/' --exclude='vendor/' --exclude='.DS_Store' \
+  /Users/mercury/Projects/mura1n-homepage/ \
+  /Users/mercury/Projects/mura1n-pages-upload/
+```
+
+确认列出的增删符合预期后，去掉上面命令中的 `--dry-run` 再运行一次。
+
+4. 检查并上传：
+
+```bash
+cd /Users/mercury/Projects/mura1n-pages-upload
+git status --short
+git add -A
+git diff --cached --stat
+git commit -m "Use original al-folio template with publication previews"
+git push origin HEAD
+```
+
+此命令不会强制推送。工作流同时支持 `master` 和 `main`，
+无需为了建站重命名现有分支。等待仓库 **Actions** 中
+“Build and deploy homepage” 成功后访问 https://mura1n.github.io/。
+
+GitHub Pages 配置依据：
+https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
+
+## 模板和隐私
+
+- 保留原模板的 MIT LICENSE，来源见 `TEMPLATE_ORIGIN.md`。
+- 原作者的个人资料、照片、论文和社交账号没有迁入。
+- 未启用统计、广告、Blog 或评论。
+- 网站源代码公开时，写在源码里的内容也会公开。
+  “不显示在网页上”不等于“保密”，不要把私密信息写进源码或 Git 历史。
