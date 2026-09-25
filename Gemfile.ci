@@ -1,0 +1,4 @@
+# Share the site's dependencies while keeping CI compatible with Ruby 3.3.
+# The root lockfile also supports the existing macOS Ruby 2.6 preview.
+eval_gemfile File.expand_path("Gemfile", __dir__)
+gem "stringio", "3.1.9"

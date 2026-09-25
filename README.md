@@ -25,6 +25,7 @@ bash scripts/preview.sh
 
 ```bash
 gem install bundler -v 2.4.22
+export BUNDLE_GEMFILE=Gemfile.ci
 bundle install
 bundle exec jekyll serve --host 127.0.0.1 --port 8000
 ```
@@ -35,6 +36,10 @@ bundle exec jekyll serve --host 127.0.0.1 --port 8000
 bash scripts/build.sh
 python3 tests/check_site.py
 ```
+
+GitHub Actions 使用 Ruby 3.3 和 `Gemfile.ci.lock`，其中 `stringio` 固定为 3.1.9。
+本机 macOS Ruby 2.6 预览继续使用原来的 `Gemfile.lock`，无需修改系统环境。
+两者共用 `Gemfile` 中的网站依赖；更新依赖时应同步检查两个锁文件。
 
 ## 在哪里修改个人信息
 

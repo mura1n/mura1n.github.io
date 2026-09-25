@@ -210,6 +210,8 @@ exclude:
   - bin
   - Gemfile
   - Gemfile.lock
+  - Gemfile.ci
+  - Gemfile.ci.lock
   - vendor
   - README.md
   - EDITING.md

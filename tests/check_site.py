@@ -45,6 +45,8 @@ assert "chen2026dust" in pubs and "wang2023remote" in pubs
 assert "<em>Yulong Chen*</em>" in home
 assert "Research Interests" in cv and "Education" in cv
 assert not (SITE / "README.md").exists()
+assert not (SITE / "Gemfile.ci").exists()
+assert not (SITE / "Gemfile.ci.lock").exists()
 assert not (SITE / "tests").exists()
 
 manifest = json.loads((ROOT / "UPSTREAM_FILES.json").read_text())
