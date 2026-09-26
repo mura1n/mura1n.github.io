@@ -3,7 +3,7 @@ layout: page
 title: News template
 date: 2026-09-25
 inline: true
-published: false
+published: true
 related_posts: false
 ---
 
