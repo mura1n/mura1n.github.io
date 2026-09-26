@@ -7,4 +7,5 @@ published: false
 related_posts: false
 ---
 
-Replace this text with your news. This template is hidden until you set published to true.
+- 2026.09.26: The paper "Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network" is shown in [arxiv](https://arxiv.org/abs/2609.20633)/[code](https://github.com/mura1n/RefineEdit).
+- 2026.09.25: The paper "One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction" is accepted by NeurIPS 2026. See you in Paris!
