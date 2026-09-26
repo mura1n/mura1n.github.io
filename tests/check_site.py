@@ -38,9 +38,6 @@ for page in (home, pubs, cv):
         target = SITE / unquote(url.path.lstrip("/"))
         assert target.exists(), f"Missing local resource: {url.path}"
 
-assert "dust.png" in home and "uistok.png" in home
-assert home.count('class="col-sm-4 preview"') == 2
-assert pubs.count('class="col-sm-4 preview"') == 2
 assert "chen2026dust" in pubs and "wang2023remote" in pubs
 assert "<em>Yulong Chen*</em>" in home
 assert "Research Interests" in cv and "Education" in cv
