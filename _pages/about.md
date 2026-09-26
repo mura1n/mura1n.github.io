@@ -15,7 +15,7 @@ social: true
 ---
 
 <div class="intro-copy">
-  <strong>Yulong</strong> is a research assistant at KAI Lab, <a href="https://cityu-dg.edu.cn/en/home.html">City University of Hong Kong (Dongguan)</a>, and an incoming Ph.D. student at the <a href="https://www.cityu.edu.hk/cc/">College of Computing, City University of Hong Kong</a> in summer 2027, to be supervised by <a href="https://wangkai930418.github.io/">Prof. Kai Wang</a> and <a href="https://scholars.cityu.edu.hk/en/persons/kedema/">Prof. Kede Ma</a>. His research interests include 3D generation, world models, and spatio-temporal modeling.
+  <strong>Yulong</strong> is a research assistant at KAI Lab, <a href="https://cityu-dg.edu.cn/en/home.html">City University of Hong Kong (Dongguan)</a>, and an incoming Ph.D. student at the <a href="https://www.cityu.edu.hk/cc/">College of Computing, City University of Hong Kong</a> in spring 2027, to be supervised by <a href="https://wangkai930418.github.io/">Prof. Kai Wang</a> and <a href="https://scholars.cityu.edu.hk/en/persons/kedema/">Prof. Kede Ma</a>. His research interests include 3D generation, world models, and spatio-temporal modeling.
 </div>
 
 He received his master's degree from [City University of Hong Kong](https://www.cityu.edu.hk/) in 2026, advised by [Prof. Jianping Wang](https://scholar.google.com/citations?user=bow_liAAAAAJ&hl=en) and [Prof. Yifan Zhang](https://yifanny.github.io/). Previously, he received his bachelor's degree from [Hubei Normal University](https://www.hbnu.edu.cn/) in 2023 and worked with [Prof. Bihui Yu](https://people.ucas.edu.cn/~yubihui) at SICT, University of Chinese Academy of Sciences.
