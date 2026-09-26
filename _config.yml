@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yulong
 middle_name:
 last_name: Chen
-email: 72405526@cityu-dg.edu.cn
+email: yulong.chen@cityu-dg.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yulong Chen's research in visual generation, world models, and spatio-temporal modeling.
 footer_text:
