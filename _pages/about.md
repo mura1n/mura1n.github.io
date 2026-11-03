@@ -18,7 +18,7 @@ social: true
   <strong>Yulong</strong> is a research assistant at KAI Lab, <a href="https://cityu-dg.edu.cn/en/home.html">City University of Hong Kong (Dongguan)</a>, and an incoming Ph.D. student at the <a href="https://www.cityu.edu.hk/cc/">College of Computing, City University of Hong Kong</a> in spring 2027, to be supervised by <a href="https://wangkai930418.github.io/">Prof. Kai Wang</a> and <a href="https://scholars.cityu.edu.hk/en/persons/kedema/">Prof. Kede Ma</a>. His research interests include 3D generation, world models, and spatio-temporal modeling.
 </div>
 
-Services: ICRA 2025/2026 Reviewer
+Services: ICRA 2025/2026 Reviewer, ICLR 2027 Reviewer.
 
 ---
 
